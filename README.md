@@ -17,9 +17,9 @@ This is just a conglomeration of things I've found elsewhere on the internet!
 ###Window assignments for:
 - Google Play Music Desktop Player (workspace 10)
 - Steam (workspace 9)
+- Chrome (workspace 2)
 
-
-###scrolling enables horizontal two finger scrolling. Place it in /usr/local/bin/ 
+###Scrolling enables horizontal two finger scrolling. Place it in /usr/local/bin/ 
 ```
 #!/bin/bash
 synclient HorizTwoFingerScroll=1 #enable horizontal two finger scrolling
